@@ -1,0 +1,4 @@
+com\example\restapiexample\demo\repository\ProductRepository.class
+com\example\restapiexample\demo\DemoApplication.class
+com\example\restapiexample\demo\controller\ProductsController.class
+com\example\restapiexample\demo\model\Product.class
